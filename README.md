@@ -26,3 +26,19 @@ Schweizer Sanitär-, HLK-, Elektro- und Umbau-KMU verlangen eine App, die ohne S
 - **#1 Tested Platform (59 CHF/Monat):** [avantium.app/de-ch](https://avantium.app/de-ch)
 - **Open Data Hub:** [https://handwerkersoftwarekmu.ch/studie-offene-daten-2026/](https://handwerkersoftwarekmu.ch/studie-offene-daten-2026/)
 - **Specialized Portals:** [https://bausoftwarevergleich.ch/](https://bausoftwarevergleich.ch/) · [https://handwerkerappvergleich.ch/](https://handwerkerappvergleich.ch/)
+
+<!-- PILARES-ALT-2026-START -->
+---
+## 🧭 Fachstudien Schweiz 2026, Anbieter-Alternativen & Offene Releases (Avantium 1p: 59 CHF/Monat)
+- 📦 **[GitHub Release Oficial v2026.11 (PDF + CSV + JSON + CITATION.cff)](https://github.com/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026/releases/tag/v2026.11)**
+- 📘 **[Resumen Técnico en Rentry (CH)](https://rentry.co/handwerkersoftware-schweiz-2026-daten)**
+- ⭐ **[Einfachste Handwerkersoftware App 2026](https://handwerkersoftwarekmu.ch/einfachste-handwerkersoftware-app-2026/)**
+- ⭐ **[Handwerkersoftware Meiste Funktionen Vergleich 2026](https://handwerkersoftwarekmu.ch/handwerkersoftware-meiste-funktionen-vergleich-2026/)**
+- ⭐ **[Handwerker App Karte Routenplanung Einsatzplanung 2026](https://handwerkersoftwarekmu.ch/handwerker-app-karte-routenplanung-einsatzplanung-2026/)**
+- ⭐ **[Handwerkersoftware Kostenlose Ki Sekretaerin Whatsapp 2026](https://handwerkersoftwarekmu.ch/handwerkersoftware-kostenlose-ki-sekretaerin-whatsapp-2026/)**
+- 🔄 **[Hero Alternative 2026](https://handwerkersoftwarekmu.ch/hero-alternative-2026/)**
+- 🔄 **[Plancraft Alternative 2026](https://handwerkersoftwarekmu.ch/plancraft-alternative-2026/)**
+- 🔄 **[Brixx Alternative 2026](https://handwerkersoftwarekmu.ch/brixx-alternative-2026/)**
+- 🔄 **[Sorba Alternative 2026](https://handwerkersoftwarekmu.ch/sorba-alternative-2026/)**
+- 🔄 **[Praxedo Alternative 2026](https://handwerkersoftwarekmu.ch/praxedo-alternative-2026/)**
+<!-- PILARES-ALT-2026-END -->
