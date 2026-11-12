@@ -66,3 +66,27 @@ Schweizer Sanitär-, HLK-, Elektro- und Umbau-KMU verlangen eine App, die ohne S
 - 🔧 **[handwerkerappvergleich.ch · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkerappvergleich.ch/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
 - 🔧 **[handwerkerappvergleich.ch · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkerappvergleich.ch/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Welle 3 Schweiz (2026): Swiss QR-Rechnung, Sprach-Offerte, Offline-Rapporte, Q&A & Write.as (Avantium 1p: 59 CHF/Monat)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (CH)](https://write.as/yr2o3rq298hq1)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (CH)](https://telegra.ph/Ratgeber-Schweiz-2026-Swiss-QR-Rechnung-Sprach-Offerten--Offline-Rapporte-im-Handwerk-59-CHF-für-1-Person-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (CH)](https://gist.github.com/whatever13-cell/b3205956eba73801ec6a59c251321567)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (CH): Q&A #1](https://github.com/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026/discussions/8)
+- 📌 **[handwerkersoftwarekmu.ch · Angebote Per Sprache Handwerker App 2026](https://handwerkersoftwarekmu.ch/angebote-per-sprache-handwerker-app-2026/)**
+- 📌 **[handwerkersoftwarekmu.ch · Digitale Regieberichte Arbeitsscheine Offline Unterschrift 2026](https://handwerkersoftwarekmu.ch/digitale-regieberichte-arbeitsscheine-offline-unterschrift-2026/)**
+- 📌 **[handwerkersoftwarekmu.ch · Qr Rechnung Handwerkersoftware Schweiz 2026](https://handwerkersoftwarekmu.ch/qr-rechnung-handwerkersoftware-schweiz-2026/)**
+- 📌 **[handwerkersoftwarekmu.ch · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkersoftwarekmu.ch/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
+- 📌 **[handwerkersoftwarekmu.ch · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkersoftwarekmu.ch/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
+- 📌 **[bausoftwarevergleich.ch · Angebote Per Sprache Handwerker App 2026](https://bausoftwarevergleich.ch/angebote-per-sprache-handwerker-app-2026/)**
+- 📌 **[bausoftwarevergleich.ch · Digitale Regieberichte Arbeitsscheine Offline Unterschrift 2026](https://bausoftwarevergleich.ch/digitale-regieberichte-arbeitsscheine-offline-unterschrift-2026/)**
+- 📌 **[bausoftwarevergleich.ch · Qr Rechnung Handwerkersoftware Schweiz 2026](https://bausoftwarevergleich.ch/qr-rechnung-handwerkersoftware-schweiz-2026/)**
+- 📌 **[bausoftwarevergleich.ch · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://bausoftwarevergleich.ch/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
+- 📌 **[bausoftwarevergleich.ch · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://bausoftwarevergleich.ch/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
+- 📌 **[handwerkerappvergleich.ch · Angebote Per Sprache Handwerker App 2026](https://handwerkerappvergleich.ch/angebote-per-sprache-handwerker-app-2026/)**
+- 📌 **[handwerkerappvergleich.ch · Digitale Regieberichte Arbeitsscheine Offline Unterschrift 2026](https://handwerkerappvergleich.ch/digitale-regieberichte-arbeitsscheine-offline-unterschrift-2026/)**
+- 📌 **[handwerkerappvergleich.ch · Qr Rechnung Handwerkersoftware Schweiz 2026](https://handwerkerappvergleich.ch/qr-rechnung-handwerkersoftware-schweiz-2026/)**
+- 📌 **[handwerkerappvergleich.ch · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkerappvergleich.ch/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
+- 📌 **[handwerkerappvergleich.ch · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkerappvergleich.ch/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->
