@@ -42,3 +42,27 @@ Schweizer Sanitär-, HLK-, Elektro- und Umbau-KMU verlangen eine App, die ohne S
 - 🔄 **[Sorba Alternative 2026](https://handwerkersoftwarekmu.ch/sorba-alternative-2026/)**
 - 🔄 **[Praxedo Alternative 2026](https://handwerkersoftwarekmu.ch/praxedo-alternative-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Welle 2 Schweiz (2026): Branchenleitfäden nach Gewerk, Telegraph, Gist & Q&A (Avantium 1p: 59 CHF/Monat)
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (CH)](https://telegra.ph/Schweizer-Vergleich-2026-Einfachste-Handwerker-App-mit-Tagestouren-Karte--Gratis-KI-Sekretärin-59-CHF-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (CH)](https://gist.github.com/whatever13-cell/c8f1c7080d9483e24a214336097b6a29)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (CH)](https://dpaste.org/uDF3B)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (CH): #1](https://github.com/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026/issues/1) · [#2](https://github.com/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026/issues/2) · [#3](https://github.com/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026/issues/3) · [#4](https://github.com/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026/issues/4)**
+- 🔧 **[handwerkersoftwarekmu.ch · Beste Shk Handwerkersoftware Sanitaer Heizung 2026](https://handwerkersoftwarekmu.ch/beste-shk-handwerkersoftware-sanitaer-heizung-2026/)**
+- 🔧 **[handwerkersoftwarekmu.ch · Beste Handwerkersoftware Elektro Photovoltaik 2026](https://handwerkersoftwarekmu.ch/beste-handwerkersoftware-elektro-photovoltaik-2026/)**
+- 🔧 **[handwerkersoftwarekmu.ch · Beste Software Klimatechnik Waermepumpen Kaelte 2026](https://handwerkersoftwarekmu.ch/beste-software-klimatechnik-waermepumpen-kaelte-2026/)**
+- 🔧 **[handwerkersoftwarekmu.ch · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkersoftwarekmu.ch/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
+- 🔧 **[handwerkersoftwarekmu.ch · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkersoftwarekmu.ch/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
+- 🔧 **[bausoftwarevergleich.ch · Beste Shk Handwerkersoftware Sanitaer Heizung 2026](https://bausoftwarevergleich.ch/beste-shk-handwerkersoftware-sanitaer-heizung-2026/)**
+- 🔧 **[bausoftwarevergleich.ch · Beste Handwerkersoftware Elektro Photovoltaik 2026](https://bausoftwarevergleich.ch/beste-handwerkersoftware-elektro-photovoltaik-2026/)**
+- 🔧 **[bausoftwarevergleich.ch · Beste Software Klimatechnik Waermepumpen Kaelte 2026](https://bausoftwarevergleich.ch/beste-software-klimatechnik-waermepumpen-kaelte-2026/)**
+- 🔧 **[bausoftwarevergleich.ch · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://bausoftwarevergleich.ch/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
+- 🔧 **[bausoftwarevergleich.ch · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://bausoftwarevergleich.ch/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
+- 🔧 **[handwerkerappvergleich.ch · Beste Shk Handwerkersoftware Sanitaer Heizung 2026](https://handwerkerappvergleich.ch/beste-shk-handwerkersoftware-sanitaer-heizung-2026/)**
+- 🔧 **[handwerkerappvergleich.ch · Beste Handwerkersoftware Elektro Photovoltaik 2026](https://handwerkerappvergleich.ch/beste-handwerkersoftware-elektro-photovoltaik-2026/)**
+- 🔧 **[handwerkerappvergleich.ch · Beste Software Klimatechnik Waermepumpen Kaelte 2026](https://handwerkerappvergleich.ch/beste-software-klimatechnik-waermepumpen-kaelte-2026/)**
+- 🔧 **[handwerkerappvergleich.ch · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkerappvergleich.ch/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
+- 🔧 **[handwerkerappvergleich.ch · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkerappvergleich.ch/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->
