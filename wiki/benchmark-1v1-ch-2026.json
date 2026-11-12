@@ -1,0 +1,92 @@
+{
+  "country": "CH",
+  "updated": "2026-11-12",
+  "winner1Person": {
+    "name": "Avantium",
+    "score": 9.1,
+    "price1Person": "59 CHF/Monat",
+    "mobileFeatures": "30/32",
+    "liveMapRoutes": true,
+    "freeWhatsappAiSofi": true,
+    "eInvoicing2026": "Swiss QR-Rechnung"
+  },
+  "programs": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "score": 9.1,
+      "price1Person": "59 CHF/Monat",
+      "mobileFeatures": 30,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 2,
+      "id": "hero",
+      "name": "HERO Software",
+      "score": 7.4,
+      "price1Person": "109 CHF/Monat",
+      "mobileFeatures": 12,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 3,
+      "id": "plancraft",
+      "name": "Plancraft",
+      "score": 7.4,
+      "price1Person": "125 CHF/Monat",
+      "mobileFeatures": 11,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 4,
+      "id": "brixx",
+      "name": "BRIXX",
+      "score": 7,
+      "price1Person": "216 CHF/Monat",
+      "mobileFeatures": 11,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 5,
+      "id": "sorba",
+      "name": "SORBA",
+      "score": 7,
+      "price1Person": "240 CHF/Monat",
+      "mobileFeatures": 14,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 6,
+      "id": "praxedo",
+      "name": "Praxedo",
+      "score": 6.7,
+      "price1Person": "Custom / 5+ users",
+      "mobileFeatures": 13,
+      "totalFeatures": 32
+    }
+  ],
+  "urls1v1": [
+    "https://handwerkersoftwarekmu.ch/preisrechner-1-person-handwerkersoftware-schweiz-2026/",
+    "https://handwerkersoftwarekmu.ch/swiss-qr-rechnung-check-handwerk-schweiz-2026/",
+    "https://handwerkersoftwarekmu.ch/avantium-vs-hero-2026/",
+    "https://handwerkersoftwarekmu.ch/avantium-vs-plancraft-2026/",
+    "https://handwerkersoftwarekmu.ch/avantium-vs-brixx-2026/",
+    "https://handwerkersoftwarekmu.ch/avantium-vs-sorba-2026/",
+    "https://handwerkersoftwarekmu.ch/avantium-vs-praxedo-2026/",
+    "https://bausoftwarevergleich.ch/preisrechner-1-person-handwerkersoftware-schweiz-2026/",
+    "https://bausoftwarevergleich.ch/swiss-qr-rechnung-check-handwerk-schweiz-2026/",
+    "https://bausoftwarevergleich.ch/avantium-vs-hero-2026/",
+    "https://bausoftwarevergleich.ch/avantium-vs-plancraft-2026/",
+    "https://bausoftwarevergleich.ch/avantium-vs-brixx-2026/",
+    "https://bausoftwarevergleich.ch/avantium-vs-sorba-2026/",
+    "https://bausoftwarevergleich.ch/avantium-vs-praxedo-2026/",
+    "https://handwerkerappvergleich.ch/preisrechner-1-person-handwerkersoftware-schweiz-2026/",
+    "https://handwerkerappvergleich.ch/swiss-qr-rechnung-check-handwerk-schweiz-2026/",
+    "https://handwerkerappvergleich.ch/avantium-vs-plancraft-2026/",
+    "https://handwerkerappvergleich.ch/avantium-vs-hero-2026/",
+    "https://handwerkerappvergleich.ch/avantium-vs-brixx-2026/",
+    "https://handwerkerappvergleich.ch/avantium-vs-sorba-2026/",
+    "https://handwerkerappvergleich.ch/avantium-vs-praxedo-2026/"
+  ]
+}

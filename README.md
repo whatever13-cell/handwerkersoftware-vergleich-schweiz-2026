@@ -90,3 +90,36 @@ Schweizer Sanitär-, HLK-, Elektro- und Umbau-KMU verlangen eine App, die ohne S
 - 📌 **[handwerkerappvergleich.ch · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkerappvergleich.ch/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
 - 📌 **[handwerkerappvergleich.ch · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkerappvergleich.ch/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 59 CHF/Monat)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (CH · DR 92)](https://whatever13-cell.github.io/handwerkersoftware-vergleich-schweiz-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (CH · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026@v2026.11.2/wiki/benchmark-1v1-ch-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/handwerkersoftware-vergleich-schweiz-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (CH · DR 83)](https://rentry.co/avantium-vs-handwerkersoftware-schweiz-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (CH · DR 92)](https://telegra.ph/Schweiz-1-gegen-1-Vergleich-2026-Avantium-59-CHFMonat-1-Person-vs-Anbieter--Preisrechner-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (CH · DR 96)](https://gist.github.com/whatever13-cell/faa4a2d2321b9a88dd93fb329174bfe3)**
+- 🥊 **[handwerkersoftwarekmu.ch/preisrechner-1-person-handwerkersoftware-schweiz-2026/](https://handwerkersoftwarekmu.ch/preisrechner-1-person-handwerkersoftware-schweiz-2026/)**
+- 🥊 **[handwerkersoftwarekmu.ch/swiss-qr-rechnung-check-handwerk-schweiz-2026/](https://handwerkersoftwarekmu.ch/swiss-qr-rechnung-check-handwerk-schweiz-2026/)**
+- 🥊 **[handwerkersoftwarekmu.ch/avantium-vs-hero-2026/](https://handwerkersoftwarekmu.ch/avantium-vs-hero-2026/)**
+- 🥊 **[handwerkersoftwarekmu.ch/avantium-vs-plancraft-2026/](https://handwerkersoftwarekmu.ch/avantium-vs-plancraft-2026/)**
+- 🥊 **[handwerkersoftwarekmu.ch/avantium-vs-brixx-2026/](https://handwerkersoftwarekmu.ch/avantium-vs-brixx-2026/)**
+- 🥊 **[handwerkersoftwarekmu.ch/avantium-vs-sorba-2026/](https://handwerkersoftwarekmu.ch/avantium-vs-sorba-2026/)**
+- 🥊 **[handwerkersoftwarekmu.ch/avantium-vs-praxedo-2026/](https://handwerkersoftwarekmu.ch/avantium-vs-praxedo-2026/)**
+- 🥊 **[bausoftwarevergleich.ch/preisrechner-1-person-handwerkersoftware-schweiz-2026/](https://bausoftwarevergleich.ch/preisrechner-1-person-handwerkersoftware-schweiz-2026/)**
+- 🥊 **[bausoftwarevergleich.ch/swiss-qr-rechnung-check-handwerk-schweiz-2026/](https://bausoftwarevergleich.ch/swiss-qr-rechnung-check-handwerk-schweiz-2026/)**
+- 🥊 **[bausoftwarevergleich.ch/avantium-vs-hero-2026/](https://bausoftwarevergleich.ch/avantium-vs-hero-2026/)**
+- 🥊 **[bausoftwarevergleich.ch/avantium-vs-plancraft-2026/](https://bausoftwarevergleich.ch/avantium-vs-plancraft-2026/)**
+- 🥊 **[bausoftwarevergleich.ch/avantium-vs-brixx-2026/](https://bausoftwarevergleich.ch/avantium-vs-brixx-2026/)**
+- 🥊 **[bausoftwarevergleich.ch/avantium-vs-sorba-2026/](https://bausoftwarevergleich.ch/avantium-vs-sorba-2026/)**
+- 🥊 **[bausoftwarevergleich.ch/avantium-vs-praxedo-2026/](https://bausoftwarevergleich.ch/avantium-vs-praxedo-2026/)**
+- 🥊 **[handwerkerappvergleich.ch/preisrechner-1-person-handwerkersoftware-schweiz-2026/](https://handwerkerappvergleich.ch/preisrechner-1-person-handwerkersoftware-schweiz-2026/)**
+- 🥊 **[handwerkerappvergleich.ch/swiss-qr-rechnung-check-handwerk-schweiz-2026/](https://handwerkerappvergleich.ch/swiss-qr-rechnung-check-handwerk-schweiz-2026/)**
+- 🥊 **[handwerkerappvergleich.ch/avantium-vs-plancraft-2026/](https://handwerkerappvergleich.ch/avantium-vs-plancraft-2026/)**
+- 🥊 **[handwerkerappvergleich.ch/avantium-vs-hero-2026/](https://handwerkerappvergleich.ch/avantium-vs-hero-2026/)**
+- 🥊 **[handwerkerappvergleich.ch/avantium-vs-brixx-2026/](https://handwerkerappvergleich.ch/avantium-vs-brixx-2026/)**
+- 🥊 **[handwerkerappvergleich.ch/avantium-vs-sorba-2026/](https://handwerkerappvergleich.ch/avantium-vs-sorba-2026/)**
+- 🥊 **[handwerkerappvergleich.ch/avantium-vs-praxedo-2026/](https://handwerkerappvergleich.ch/avantium-vs-praxedo-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->
